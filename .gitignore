@@ -262,3 +262,5 @@ cython_debug/
 *.max
 
 /data/dataset.csv
+
+.DS_Store
