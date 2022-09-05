@@ -8,3 +8,38 @@ Source code contains code for [exploratory data analysis](./src//EDA.ipynb) and
 model [training](./src/train.ipynb).
 [Model directoty](./model/) contains pre-trained model and its weights.
 [Data directory](./data/) contains dataset.
+
+## Project tree
+
+ * [data](./data)
+ * [model](./model)
+ * [src](./src)
+     * [EDA.ipynb](./src/EDA.ipynb)  
+     * [train.ipynb](./src/train.ipynb)
+ * [LICENSE](./LICENSE)
+ * [README.md](./README.md)
+ * [requirements.txt](./requirements.txt)
+ * [.gitignore](./.gitignore)
+ * [.gitattributes](./.gitattributes)
+
+## Installation
+
+### Clone project
+```bash
+git clone https://github.com/Dichik/TestTask_IASA_DataScience_Champ
+```
+
+### Create virtual environment
+```bash
+python -m venv venv
+```
+
+### Activate it (depends on the OS)
+```bash
+venv\\Scripts\\activate
+```
+
+### Install dependencies
+```bash
+pip install -r requirements.txt
+```
