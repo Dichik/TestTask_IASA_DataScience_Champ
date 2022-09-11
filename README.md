@@ -13,7 +13,7 @@ model [training](./src/train.ipynb).
 
  * [data](./data)
  * [model](./model)
-    *[model.pkl](./model/model.pkl)
+     * [model.pkl](./model/model.pkl)
  * [src](./src)
      * [EDA.ipynb](./src/EDA.ipynb)  
      * [train.ipynb](./src/train.ipynb)
